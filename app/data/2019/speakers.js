@@ -522,7 +522,7 @@ By the end of this day, you will have the practical knowledge to build and ship 
     company: 'LogMeIn',
     img: 'benedek-gagyi.jpg',
     twitter: 'https://twitter.com/BenedekGagyi',
-    description: '',
+    description: `Developer, teacher, sports-fanatic. As a developer, he's working on making password management more secure at LastPass. In his free time, he's researching the patterns and algorithms connecting basketball, tea and drums. His devotion to impeccable and secure user experience is rivalled only by his constant search for the perfect brew of Chinese pu'er.`,
     talk: null,
     workshop: {
       title: 'Web Security for Frontend Engineers',
@@ -535,8 +535,9 @@ By the end of this day, you will have the practical knowledge to build and ship 
         <ul>
         <li>Why is security important? Is awareness enough?</li>
         <li>OWASP top 10: the most important attack vectors.</li>
+        <li>Risks and security vulnerabilities in open source dependencies.</li>
         <li>Exercises from both the attackers and the defenders point of view.</li>
-        <li>The basics of cryptography and real world examples</li>
+        <li>The basics of cryptography and real world examples.</li>
         </ul>
       `,
       prerequisites: '',

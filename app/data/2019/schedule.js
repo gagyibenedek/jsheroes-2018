@@ -30,7 +30,7 @@ export default [
         time: '14:00 - 18:00',
       },
       {
-        speakerRef: 'benedek-gagyi',
+        speakerRef: ['benedek-gagyi', 'liran-tal'],
         time: '14:00 - 18:00',
       },
     ],
